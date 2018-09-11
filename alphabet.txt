@@ -3,5 +3,6 @@ HIJK
 QRS
 TUV
 LMNOP
+WXY and Z
 Now I know my ABC's to the bottom of the file
 Next time won't you sing with me
